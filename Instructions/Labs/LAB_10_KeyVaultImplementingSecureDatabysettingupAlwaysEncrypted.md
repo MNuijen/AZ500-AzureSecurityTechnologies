@@ -469,6 +469,8 @@ Then you will create a Console application using Visual Studio to load data into
     Install-Package Microsoft.IdentityModel.Clients.ActiveDirectory
     ```
 
+>**Note**: Do not copy paste and run both lines at the same time. This might result in the second package not being installed. Install them one by one.
+
 1. Navigate to **\\Allfiles\\Labs\\10\\program.cs**, open it in Notepad, and copy its content into Clipboard.
 
 1. Switch to the Visual Studio console, in the **Solution Explorer** window, click **Program.cs** and replace its content with the code you copied into Clipboard.
